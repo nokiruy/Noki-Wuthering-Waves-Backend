@@ -1,4 +1,4 @@
-# 项目名称：Noki-MingChao-Backend
+# 项目名称：Noki-Wuthering-Waves-Backend
 
 欢迎来到本项目！此脚本可以让游戏处于后台自动刷取cost4的声骸，支持一次选择所有世界boss，可以选择主声骸（其他声骸为主声骸垫刀），定时重启，还有防止视角偏移的boss残血不切人模式等等，可以一定程度预测世界boss副本boss的增加
 
