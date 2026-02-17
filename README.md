@@ -7,7 +7,7 @@
 
 1. **同步更新网盘链接**点击[这里](https://www.123865.com/s/1WJ4Td-TNiY3)提取码：noki
 2. **或者请前往右侧的“Releases”页面**（点击 [这里](https://github.com/nokiruy/-Noki-MingChao-Backend/releases)）。
-3. 选择最新的版本，并下载适合你设备的可执行文件（通常是 `Noki-Wuthering-Waves-Backend-v*.*.*.exe`之类的文件）。
+3. 选择最新的版本的可执行文件（`Noki-Wuthering-Waves-Backend-v*.*.*.exe`）。
 4. 下载完成后，按照说明运行即可
 
 ## 其他信息
