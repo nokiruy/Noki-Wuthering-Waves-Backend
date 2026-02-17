@@ -5,8 +5,8 @@
 
 此脚本使用opencv图像识别加后台键鼠指令，没有修改游戏数据，请按照以下步骤获取可执行文件：
 
-1. **不要点击“Code”按钮下载 ZIP 文件**，也不要使用“Clone”功能
-2. **请前往右侧的“Releases”页面**（或点击 [这里](https://github.com/nokiruy/-Noki-MingChao-Backend/releases)）。
+1. **[网盘连接](https://www.123865.com/s/1WJ4Td-TNiY3)**
+2. **或者请前往右侧的“Releases”页面**（点击 [这里](https://github.com/nokiruy/-Noki-MingChao-Backend/releases)）。
 3. 在“Releases”页面，你会看到不同版本的发布内容。
 4. 选择最新的版本，并下载适合你设备的可执行文件（通常是 `Noki-Wuthering-Waves-Backend-v*.*.*.exe`之类的文件）。
 5. 下载完成后，按照说明运行即可
