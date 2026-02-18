@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nokiruy/Noki-Wuthering-Waves-Backend/main/app_icon.ico" alt="NokiWW Icon" width="256">
+  
+
 # 项目名称：Noki-Wuthering-Waves-Backend
 
 欢迎来到本项目！此脚本可以让游戏处于后台自动刷取cost4的声骸，支持一次选择所有世界boss，还有防止视角偏移的boss残血不切人模式等等，从开服更新至今
