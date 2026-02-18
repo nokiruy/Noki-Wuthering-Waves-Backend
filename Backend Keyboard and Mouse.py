@@ -32,7 +32,12 @@ Key Code List = [
 ]
 """
 
-
+def fake_activate_window(hwnd):
+    """Activate a background window so that it can receive background keyboard and mouse commands."""
+    try:
+        win32gui.SendMessage(hwnd, WM_ACTIVATE, WA_ACTIVE, 0)
+    except Exception as e:
+        print(e)
 def simulate_key_press_hold(handle, vk_code, duration):
     """
     Simulates pressing and holding a key for a specified duration
@@ -145,4 +150,5 @@ def simulate_mouse_left_up(handle, x, y, delay=0.001):
         win32gui.PostMessage(handle, win32con.WM_LBUTTONUP, 0, MAKELONG(x, y))
         time.sleep(delay)
     except Exception:
+
         pass
